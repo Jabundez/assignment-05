@@ -22,3 +22,4 @@
 	{
 		return sqrt((x - p.x) * (x - p.x) + (y - p.y) * (y - p.y));
 	}
+	
