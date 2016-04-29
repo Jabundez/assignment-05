@@ -7,7 +7,6 @@
 * A file that defines a class named Point.
 */
 
-
 #ifndef POINT_H
 #define POINT_H
 
